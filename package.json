@@ -1,0 +1,75 @@
+{
+  "_args": [
+    [
+      "react-native-ble-manager@6.3.3",
+      "E:\\jiangbo\\workspace\\HDWALLET\\scrum"
+    ]
+  ],
+  "_from": "react-native-ble-manager@6.3.3",
+  "_id": "react-native-ble-manager@6.3.3",
+  "_inBundle": false,
+  "_integrity": "sha1-5n7/e22yhqUO48FIbbObRuHcK8U=",
+  "_location": "/react-native-ble-manager",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-ble-manager@6.3.3",
+    "name": "react-native-ble-manager",
+    "escapedName": "react-native-ble-manager",
+    "rawSpec": "6.3.3",
+    "saveSpec": null,
+    "fetchSpec": "6.3.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/react-native-ble-manager/download/react-native-ble-manager-6.3.3.tgz",
+  "_spec": "6.3.3",
+  "_where": "E:\\jiangbo\\workspace\\HDWALLET\\scrum",
+  "author": {
+    "name": "Innove",
+    "url": "https://github.com/innoveit"
+  },
+  "bugs": {
+    "url": "https://github.com/innoveit/react-native-ble-manager/issues"
+  },
+  "description": "A BLE module for react native.",
+  "homepage": "https://github.com/innoveit/react-native-ble-manager#readme",
+  "keywords": [
+    "react-native",
+    "android",
+    "ios",
+    "ble",
+    "bluetooth",
+    "low energy"
+  ],
+  "license": "Apache-2.0",
+  "main": "BleManager",
+  "name": "react-native-ble-manager",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/innoveit/react-native-ble-manager.git"
+  },
+  "version": "6.3.3",
+  "react-native": {
+    "crypto": "react-native-crypto",
+    "_stream_transform": "readable-stream/transform",
+    "_stream_readable": "readable-stream/readable",
+    "_stream_writable": "readable-stream/writable",
+    "_stream_duplex": "readable-stream/duplex",
+    "_stream_passthrough": "readable-stream/passthrough",
+    "stream": "stream-browserify",
+    "vm": "vm-browserify"
+  },
+  "browser": {
+    "crypto": "react-native-crypto",
+    "_stream_transform": "readable-stream/transform",
+    "_stream_readable": "readable-stream/readable",
+    "_stream_writable": "readable-stream/writable",
+    "_stream_duplex": "readable-stream/duplex",
+    "_stream_passthrough": "readable-stream/passthrough",
+    "stream": "stream-browserify",
+    "vm": "vm-browserify"
+  }
+}
